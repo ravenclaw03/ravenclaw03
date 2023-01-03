@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 :man_technologist: About Me :<br><br>
 I am a Student who is pursuing Btech in Computer Science:computer:.<br><br>
  <ul type="disc">
- <li>🌱 I’m currently learning Data Structures and Algorithms.
+ <li>:telescope: I like to watch Sci-fi stuff and talk about space.
+ <li>🌱 I’m currently learning Web Development.
  <li>📫 How to reach me: Well you can click on the LinkedIn button above.
- <li>⚡ Fun fact: 
+ <li>⚡ Fun fact: The moon has moonquakes.
  </ul>
  <hr>
  :hammer_and_wrench: Languages and Tools :
