@@ -42,8 +42,7 @@ I am a Student who is pursuing Btech in Computer Science:computer:.<br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
  <hr>
- :fire: My Stats :<br><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ravenclaw03&theme=&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a>
+ :fire: My Stats :
 <a href="https://github.com/ravenclaw03/github-readme-stats"/></a>
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenclaw03&layout=compact&theme=vision-friendly-dark"/></a>
