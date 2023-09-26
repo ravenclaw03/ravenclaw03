@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <div id="main" align="center">
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="300"/>
+  <img src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-1643.jpg?w=740&t=st=1695748665~exp=1695749265~hmac=42281fb7fa2e7f3b385512991c894ae03dd6e50e1a5374ea705a2e129bf1a26f" width="300"/>
 </div>
 <h1>Hi there ,you've reached @ravenclaw03
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
