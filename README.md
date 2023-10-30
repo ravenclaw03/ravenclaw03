@@ -46,7 +46,6 @@ I am a Student who is pursuing Btech in Computer Science:computer:.<br><br>
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenclaw03&layout=compact&theme=vision-friendly-dark"/></a>
 <br><br>
-:bulb: My Badges :
 <div>
-<img src="https://developers.google.com/profile/badges/community/gdsc/2023/core-member"  title="GDSC" alt="GDSC" width="170" height="170"/>&nbsp;
+<img src="https://developers.google.com/static/profile/badges/community/gdsc/2023/core-member/badge.svg"  title="GDSC" alt="GDSC" width="170" height="170"/>&nbsp;
 </div>
