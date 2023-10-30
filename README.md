@@ -48,9 +48,5 @@ I am a Student who is pursuing Btech in Computer Science:computer:.<br><br>
 <br><br>
 :bulb: My Badges :
 <div>
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  title="Hacktoberfest" alt="Hacktoberfest" width="170" height="170"/>&nbsp;
-  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  title="Hacktoberfest" alt="Hacktoberfest" width="170" height="170"/>&nbsp;
-    <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  title="Hacktoberfest" alt="Hacktoberfest" width="170" height="170"/>&nbsp;
-   <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  title="Hacktoberfest" alt="Hacktoberfest" width="170" height="170"/>&nbsp;
-     <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  title="Hacktoberfest" alt="Hacktoberfest" width="170" height="170"/>&nbsp;
+<img src="https://developers.google.com/profile/badges/community/gdsc/2023/core-member"  title="GDSC" alt="GDSC" width="170" height="170"/>&nbsp;
 </div>
