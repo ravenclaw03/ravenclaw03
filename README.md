@@ -23,8 +23,7 @@ I am a Student who is pursuing Btech in Computer Science. :computer:<br><br>
  <ul type="disc">
  <li>:telescope: I like to watch Sci-fi stuff and talk about space.
  <li>🌱 I’m a MERN stack Developer.
- <li>📫 How to reach me: Well you can click on the LinkedIn button above.
- <li>⚡ Fun fact: lorem ipsum? haha.
+ <li>📫 How to reach me: Well you can click on the LinkedIn button above.  
  </ul>
  <hr>
  :hammer_and_wrench: Languages and Tools :
@@ -43,7 +42,7 @@ I am a Student who is pursuing Btech in Computer Science. :computer:<br><br>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>
 </div>
  <hr>
  :fire: My Stats :
