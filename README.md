@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <div id="main" align="center">
 <div id="header" align="center">
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZydGY2M29qaHcxN3V1cHhjZ2E3b29veXhkeXp0bXRsNzRoYXFlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sg4DwEJrCpGIU/giphy.webp" width="480" height="278" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl4ZTFjdGF4eHNreHpnbDBuM3JvMGpuaDV3MXJxNjJpaXBxd2dseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Fh0B2CCaickE/giphy.webp" width="480" height="278" />
 </div>
 <h1>Hi there ,you've reached Parth Ahuja
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
