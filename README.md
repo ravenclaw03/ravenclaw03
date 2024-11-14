@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 </div>
 </div>
 :man_technologist: About Me :<br><br>
-I am a Student who is pursuing Btech in Computer Science. :computer:<br><br>
+I am a Student who is pursuing Btech in Computer Science. :computer: <br>
+<a href="https://parthahuja.tech/" target="_blank">My Portfolio</a><br><br>
  <ul type="disc">
  <li>:telescope: I like to watch Sci-fi stuff and talk about space.
  <li>🌱 I’m a MERN stack Developer.
